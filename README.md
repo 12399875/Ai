@@ -30,3 +30,4 @@ def ehdota_opiskeluaikataulu(opiskelijadata):
     malli = lataa_valmis_malli(opiskelijadata)
     suositellut_jaksot = optimoi_aikataulu(malli)
     return suositellut_jaksot
+Add Summary
