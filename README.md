@@ -2,7 +2,7 @@
 
 Lopputyö Building AI -kurssille
 
-## Yhteenveto
+## summary
 Älykäs Opintosuunnittelija on tekoälytyökalu, joka auttaa opiskelijoita laatimaan henkilökohtaisia opiskeluaikatauluja analysoimalla heidän aiempia opintotottumuksiaan ja ennustamalla optimaaliset opiskelusessiot. Building AI -kurssin projekti.
 
 ## Tausta
